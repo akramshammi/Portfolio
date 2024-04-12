@@ -121,7 +121,7 @@ ScrollReveal().reveal(' .home .info h2', { delay: 4500, origin: 'left' });
 ScrollReveal().reveal('.home .info h2', { delay: 4500, origin: 'left' });
 ScrollReveal().reveal('.home .info h3, .home .info p,.about-info .btn', { delay: 500, origin: 'right' });
 ScrollReveal().reveal('.home .info .btn', { delay: 400, origin: 'bottom' });
-ScrollReveal().reveal('.media-icons i, .contact-left li', { delay: 4500, origin: 'left', interval: 200 });
+ScrollReveal().reveal('.media-icons i, .contact-left li', { delay: 500, origin: 'left', interval: 200 });
 ScrollReveal().reveal('.home-img,about-img', { delay: 4000, origin: 'bottom' });
 ScrollReveal().reveal('.about .description, .copy-right', { delay: 600, origin: 'right' });
 ScrollReveal().reveal('.about .professional-list li', { delay: 500, origin: 'right', interval: 200 });
